@@ -1,0 +1,10 @@
+a=465
+b='''Krishna
+is
+a
+good
+boy'''
+c=45.5
+print(a)
+print(b)
+print(c)

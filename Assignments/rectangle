@@ -1,0 +1,4 @@
+a=int(input("length of rectangle"))
+b=int(input("width of rectangle"))
+area=a*b
+print(area)
